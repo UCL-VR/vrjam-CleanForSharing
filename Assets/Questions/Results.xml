@@ -1,0 +1,23 @@
+<!--
+Element Audio
+	Attribute AudioFile - contains name of audio file in audio folder
+
+Element Poster
+	Attribute Text
+
+Element Question
+	Attribute Condition
+		Value "all" - question or audio for all participants
+		Value "body" - question or audio only for participants in body condition
+	Attribute Consent
+		Value "no" - question or audio for all participants
+		Value "yes" - question or audio only for participants who have given consent
+	Attrtibute QuestionText
+	Attribute Answer0...
+-->
+
+<Questions>
+    <Question PosterLocation="right" QuestionText=
+    "The virtual reality system was configured as follows:" Answer0="Exit"/>
+	
+</Questions>

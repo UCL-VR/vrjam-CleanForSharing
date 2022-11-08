@@ -1,0 +1,30 @@
+<!--
+Element Audio
+	Attribute AudioFile - contains name of audio file in audio folder
+
+Element Poster
+	Attribute Text
+
+Element Question
+	Attribute Condition
+		Value "all" - question or audio for all participants
+		Value "body" - question or audio only for participants in body condition
+	Attribute Consent
+		Value "no" - question or audio for all participants
+		Value "yes" - question or audio only for participants who have given consent
+	Attrtibute QuestionText
+	Attribute Answer0...
+-->
+
+<Questions>
+    <Audio AudioFile="preQuestionnaire/newtrack0"/>
+    <Question Consent="any" QuestionText= "This experience is designed be used sat down. Please click Start when you are ready." Answer0="Start"/>
+    <Audio AudioFile="preQuestionnaire/newtrack1"/>
+    <Question Special="Consent" Consent="any" QuestionText= "I confirm that I am over 18 years old and that I consent to take part in the study of effectiveness of virtual reality." Answer0="Yes" Answer1="No"/>
+    <Question Special="Gender" Consent="no" QuestionText="Please indicate your gender to configure the environment. Your answer is not recorded." Answer0="Male" Answer1="Female" Answer2="Other"/>
+    <Question Special="Gender" Consent="yes" QuestionText="What is your gender?" Answer0="Male" Answer1="Female" Answer2="Other"/>
+    <Question Consent="yes" QuestionText="How much time do you spend playing computer or video games each week?" Answer0="None" Answer1="Less than 1 hour" Answer2="1-2 hours" Answer3="2-5 hours" Answer4="5-10 hours" Answer5="More than 10 hours" />
+    <Question Consent="yes" QuestionText="Have you experienced virtual reality before?" Answer0="Never" Answer1="Once or twice" Answer2="3-10 times" Answer3="Frequently"/>
+    <Audio AudioFile="preQuestionnaire/newtrack2"/>
+    <Question Consent="any" QuestionText= "The setup is complete. Please click Start to begin." Answer0="Start"/>
+</Questions>

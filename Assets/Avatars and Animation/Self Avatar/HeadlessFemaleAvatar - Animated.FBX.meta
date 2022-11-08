@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: 59af16a791fe74147af2c528c5d22deb
+timeCreated: 1431120614
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: f001_hipoly
+    100002: //RootNode
+    100004: Self:Bip01
+    100006: Self:Bip01 Footsteps
+    100008: Self:Bip01 Head
+    100010: Self:Bip01 HeadNub
+    100012: Self:Bip01 L Calf
+    100014: Self:Bip01 L Clavicle
+    100016: Self:Bip01 L Finger0
+    100018: Self:Bip01 L Finger01
+    100020: Self:Bip01 L Finger02
+    100022: Self:Bip01 L Finger0Nub
+    100024: Self:Bip01 L Finger1
+    100026: Self:Bip01 L Finger11
+    100028: Self:Bip01 L Finger12
+    100030: Self:Bip01 L Finger1Nub
+    100032: Self:Bip01 L Finger2
+    100034: Self:Bip01 L Finger21
+    100036: Self:Bip01 L Finger22
+    100038: Self:Bip01 L Finger2Nub
+    100040: Self:Bip01 L Finger3
+    100042: Self:Bip01 L Finger31
+    100044: Self:Bip01 L Finger32
+    100046: Self:Bip01 L Finger3Nub
+    100048: Self:Bip01 L Finger4
+    100050: Self:Bip01 L Finger41
+    100052: Self:Bip01 L Finger42
+    100054: Self:Bip01 L Finger4Nub
+    100056: Self:Bip01 L Foot
+    100058: Self:Bip01 L Forearm
+    100060: Self:Bip01 L Hand
+    100062: Self:Bip01 L Thigh
+    100064: Self:Bip01 L Toe0
+    100066: Self:Bip01 L Toe0Nub
+    100068: Self:Bip01 L UpperArm
+    100070: Self:Bip01 LCaninus
+    100072: Self:Bip01 LCaninusNub
+    100074: Self:Bip01 LCheek
+    100076: Self:Bip01 LCheekNub
+    100078: Self:Bip01 LEye
+    100080: Self:Bip01 LEyeBlinkBottom
+    100082: Self:Bip01 LEyeBlinkBottomNub
+    100084: Self:Bip01 LEyeBlinkTop
+    100086: Self:Bip01 LEyeBlinkTopNub
+    100088: Self:Bip01 LEyeNub
+    100090: Self:Bip01 LInnerEyebrow
+    100092: Self:Bip01 LInnerEyebrowNub
+    100094: Self:Bip01 LMasseter
+    100096: Self:Bip01 LMasseterNub
+    100098: Self:Bip01 LMouthBottom
+    100100: Self:Bip01 LMouthBottomNub
+    100102: Self:Bip01 LMouthCorner
+    100104: Self:Bip01 LMouthCornerNub
+    100106: Self:Bip01 LOuterEyebrow
+    100108: Self:Bip01 LOuterEyebrowNub
+    100110: Self:Bip01 LUpperlip
+    100112: Self:Bip01 LUpperlipNub
+    100114: Self:Bip01 MBottomLip
+    100116: Self:Bip01 MBottomLipNub
+    100118: Self:Bip01 MJaw
+    100120: Self:Bip01 MJawNub
+    100122: Self:Bip01 MMiddleEyebrow
+    100124: Self:Bip01 MMiddleEyebrowNub
+    100126: Self:Bip01 MNose
+    100128: Self:Bip01 MNoseNub
+    100130: Self:Bip01 MTongue
+    100132: Self:Bip01 MTongueNub
+    100134: Self:Bip01 MUpperLip
+    100136: Self:Bip01 MUpperLipNub
+    100138: Self:Bip01 Neck
+    100140: Self:Bip01 Pelvis
+    100142: Self:Bip01 R Calf
+    100144: Self:Bip01 R Clavicle
+    100146: Self:Bip01 R Finger0
+    100148: Self:Bip01 R Finger01
+    100150: Self:Bip01 R Finger02
+    100152: Self:Bip01 R Finger0Nub
+    100154: Self:Bip01 R Finger1
+    100156: Self:Bip01 R Finger11
+    100158: Self:Bip01 R Finger12
+    100160: Self:Bip01 R Finger1Nub
+    100162: Self:Bip01 R Finger2
+    100164: Self:Bip01 R Finger21
+    100166: Self:Bip01 R Finger22
+    100168: Self:Bip01 R Finger2Nub
+    100170: Self:Bip01 R Finger3
+    100172: Self:Bip01 R Finger31
+    100174: Self:Bip01 R Finger32
+    100176: Self:Bip01 R Finger3Nub
+    100178: Self:Bip01 R Finger4
+    100180: Self:Bip01 R Finger41
+    100182: Self:Bip01 R Finger42
+    100184: Self:Bip01 R Finger4Nub
+    100186: Self:Bip01 R Foot
+    100188: Self:Bip01 R Forearm
+    100190: Self:Bip01 R Hand
+    100192: Self:Bip01 R Thigh
+    100194: Self:Bip01 R Toe0
+    100196: Self:Bip01 R Toe0Nub
+    100198: Self:Bip01 R UpperArm
+    100200: Self:Bip01 RCaninus
+    100202: Self:Bip01 RCaninusNub
+    100204: Self:Bip01 RCheek
+    100206: Self:Bip01 RCheekNub
+    100208: Self:Bip01 REye
+    100210: Self:Bip01 REyeBlinkBottom
+    100212: Self:Bip01 REyeBlinkBottomNub
+    100214: Self:Bip01 REyeBlinkTop
+    100216: Self:Bip01 REyeBlinkTopNub
+    100218: Self:Bip01 REyeNub
+    100220: Self:Bip01 RInnerEyebrow
+    100222: Self:Bip01 RInnerEyebrowNub
+    100224: Self:Bip01 RMasseter
+    100226: Self:Bip01 RMasseterNub
+    100228: Self:Bip01 RMouthBottom
+    100230: Self:Bip01 RMouthBottomNub
+    100232: Self:Bip01 RMouthCorner
+    100234: Self:Bip01 RMouthCornerNub
+    100236: Self:Bip01 ROuterEyebrow
+    100238: Self:Bip01 ROuterEyebrowNub
+    100240: Self:Bip01 RUpperlip
+    100242: Self:Bip01 RUpperlipNub
+    100244: Self:Bip01 Spine
+    100246: Self:Bip01 Spine1
+    100248: Self:Bip01 Spine2
+    400000: f001_hipoly
+    400002: //RootNode
+    400004: Self:Bip01
+    400006: Self:Bip01 Footsteps
+    400008: Self:Bip01 Head
+    400010: Self:Bip01 HeadNub
+    400012: Self:Bip01 L Calf
+    400014: Self:Bip01 L Clavicle
+    400016: Self:Bip01 L Finger0
+    400018: Self:Bip01 L Finger01
+    400020: Self:Bip01 L Finger02
+    400022: Self:Bip01 L Finger0Nub
+    400024: Self:Bip01 L Finger1
+    400026: Self:Bip01 L Finger11
+    400028: Self:Bip01 L Finger12
+    400030: Self:Bip01 L Finger1Nub
+    400032: Self:Bip01 L Finger2
+    400034: Self:Bip01 L Finger21
+    400036: Self:Bip01 L Finger22
+    400038: Self:Bip01 L Finger2Nub
+    400040: Self:Bip01 L Finger3
+    400042: Self:Bip01 L Finger31
+    400044: Self:Bip01 L Finger32
+    400046: Self:Bip01 L Finger3Nub
+    400048: Self:Bip01 L Finger4
+    400050: Self:Bip01 L Finger41
+    400052: Self:Bip01 L Finger42
+    400054: Self:Bip01 L Finger4Nub
+    400056: Self:Bip01 L Foot
+    400058: Self:Bip01 L Forearm
+    400060: Self:Bip01 L Hand
+    400062: Self:Bip01 L Thigh
+    400064: Self:Bip01 L Toe0
+    400066: Self:Bip01 L Toe0Nub
+    400068: Self:Bip01 L UpperArm
+    400070: Self:Bip01 LCaninus
+    400072: Self:Bip01 LCaninusNub
+    400074: Self:Bip01 LCheek
+    400076: Self:Bip01 LCheekNub
+    400078: Self:Bip01 LEye
+    400080: Self:Bip01 LEyeBlinkBottom
+    400082: Self:Bip01 LEyeBlinkBottomNub
+    400084: Self:Bip01 LEyeBlinkTop
+    400086: Self:Bip01 LEyeBlinkTopNub
+    400088: Self:Bip01 LEyeNub
+    400090: Self:Bip01 LInnerEyebrow
+    400092: Self:Bip01 LInnerEyebrowNub
+    400094: Self:Bip01 LMasseter
+    400096: Self:Bip01 LMasseterNub
+    400098: Self:Bip01 LMouthBottom
+    400100: Self:Bip01 LMouthBottomNub
+    400102: Self:Bip01 LMouthCorner
+    400104: Self:Bip01 LMouthCornerNub
+    400106: Self:Bip01 LOuterEyebrow
+    400108: Self:Bip01 LOuterEyebrowNub
+    400110: Self:Bip01 LUpperlip
+    400112: Self:Bip01 LUpperlipNub
+    400114: Self:Bip01 MBottomLip
+    400116: Self:Bip01 MBottomLipNub
+    400118: Self:Bip01 MJaw
+    400120: Self:Bip01 MJawNub
+    400122: Self:Bip01 MMiddleEyebrow
+    400124: Self:Bip01 MMiddleEyebrowNub
+    400126: Self:Bip01 MNose
+    400128: Self:Bip01 MNoseNub
+    400130: Self:Bip01 MTongue
+    400132: Self:Bip01 MTongueNub
+    400134: Self:Bip01 MUpperLip
+    400136: Self:Bip01 MUpperLipNub
+    400138: Self:Bip01 Neck
+    400140: Self:Bip01 Pelvis
+    400142: Self:Bip01 R Calf
+    400144: Self:Bip01 R Clavicle
+    400146: Self:Bip01 R Finger0
+    400148: Self:Bip01 R Finger01
+    400150: Self:Bip01 R Finger02
+    400152: Self:Bip01 R Finger0Nub
+    400154: Self:Bip01 R Finger1
+    400156: Self:Bip01 R Finger11
+    400158: Self:Bip01 R Finger12
+    400160: Self:Bip01 R Finger1Nub
+    400162: Self:Bip01 R Finger2
+    400164: Self:Bip01 R Finger21
+    400166: Self:Bip01 R Finger22
+    400168: Self:Bip01 R Finger2Nub
+    400170: Self:Bip01 R Finger3
+    400172: Self:Bip01 R Finger31
+    400174: Self:Bip01 R Finger32
+    400176: Self:Bip01 R Finger3Nub
+    400178: Self:Bip01 R Finger4
+    400180: Self:Bip01 R Finger41
+    400182: Self:Bip01 R Finger42
+    400184: Self:Bip01 R Finger4Nub
+    400186: Self:Bip01 R Foot
+    400188: Self:Bip01 R Forearm
+    400190: Self:Bip01 R Hand
+    400192: Self:Bip01 R Thigh
+    400194: Self:Bip01 R Toe0
+    400196: Self:Bip01 R Toe0Nub
+    400198: Self:Bip01 R UpperArm
+    400200: Self:Bip01 RCaninus
+    400202: Self:Bip01 RCaninusNub
+    400204: Self:Bip01 RCheek
+    400206: Self:Bip01 RCheekNub
+    400208: Self:Bip01 REye
+    400210: Self:Bip01 REyeBlinkBottom
+    400212: Self:Bip01 REyeBlinkBottomNub
+    400214: Self:Bip01 REyeBlinkTop
+    400216: Self:Bip01 REyeBlinkTopNub
+    400218: Self:Bip01 REyeNub
+    400220: Self:Bip01 RInnerEyebrow
+    400222: Self:Bip01 RInnerEyebrowNub
+    400224: Self:Bip01 RMasseter
+    400226: Self:Bip01 RMasseterNub
+    400228: Self:Bip01 RMouthBottom
+    400230: Self:Bip01 RMouthBottomNub
+    400232: Self:Bip01 RMouthCorner
+    400234: Self:Bip01 RMouthCornerNub
+    400236: Self:Bip01 ROuterEyebrow
+    400238: Self:Bip01 ROuterEyebrowNub
+    400240: Self:Bip01 RUpperlip
+    400242: Self:Bip01 RUpperlipNub
+    400244: Self:Bip01 Spine
+    400246: Self:Bip01 Spine1
+    400248: Self:Bip01 Spine2
+    4300000: f001_hipoly
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: f001_hipoly
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

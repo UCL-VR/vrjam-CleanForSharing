@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: 767f6b8e1c3a77e44a217a148ccab5a7
+timeCreated: 1431115691
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: f008_hipoly
+    100002: //RootNode
+    100004: Singer:Bip01
+    100006: Singer:Bip01 Footsteps
+    100008: Singer:Bip01 Head
+    100010: Singer:Bip01 HeadNub
+    100012: Singer:Bip01 L Calf
+    100014: Singer:Bip01 L Clavicle
+    100016: Singer:Bip01 L Finger0
+    100018: Singer:Bip01 L Finger01
+    100020: Singer:Bip01 L Finger02
+    100022: Singer:Bip01 L Finger0Nub
+    100024: Singer:Bip01 L Finger1
+    100026: Singer:Bip01 L Finger11
+    100028: Singer:Bip01 L Finger12
+    100030: Singer:Bip01 L Finger1Nub
+    100032: Singer:Bip01 L Finger2
+    100034: Singer:Bip01 L Finger21
+    100036: Singer:Bip01 L Finger22
+    100038: Singer:Bip01 L Finger2Nub
+    100040: Singer:Bip01 L Finger3
+    100042: Singer:Bip01 L Finger31
+    100044: Singer:Bip01 L Finger32
+    100046: Singer:Bip01 L Finger3Nub
+    100048: Singer:Bip01 L Finger4
+    100050: Singer:Bip01 L Finger41
+    100052: Singer:Bip01 L Finger42
+    100054: Singer:Bip01 L Finger4Nub
+    100056: Singer:Bip01 L Foot
+    100058: Singer:Bip01 L Forearm
+    100060: Singer:Bip01 L Hand
+    100062: Singer:Bip01 L Thigh
+    100064: Singer:Bip01 L Toe0
+    100066: Singer:Bip01 L Toe0Nub
+    100068: Singer:Bip01 L UpperArm
+    100070: Singer:Bip01 LCaninus
+    100072: Singer:Bip01 LCaninusNub
+    100074: Singer:Bip01 LCheek
+    100076: Singer:Bip01 LCheekNub
+    100078: Singer:Bip01 LEye
+    100080: Singer:Bip01 LEyeBlinkBottom
+    100082: Singer:Bip01 LEyeBlinkBottomNub
+    100084: Singer:Bip01 LEyeBlinkTop
+    100086: Singer:Bip01 LEyeBlinkTopNub
+    100088: Singer:Bip01 LEyeNub
+    100090: Singer:Bip01 LInnerEyebrow
+    100092: Singer:Bip01 LInnerEyebrowNub
+    100094: Singer:Bip01 LMasseter
+    100096: Singer:Bip01 LMasseterNub
+    100098: Singer:Bip01 LMouthBottom
+    100100: Singer:Bip01 LMouthBottomNub
+    100102: Singer:Bip01 LMouthCorner
+    100104: Singer:Bip01 LMouthCornerNub
+    100106: Singer:Bip01 LOuterEyebrow
+    100108: Singer:Bip01 LOuterEyebrowNub
+    100110: Singer:Bip01 LUpperlip
+    100112: Singer:Bip01 LUpperlipNub
+    100114: Singer:Bip01 MBottomLip
+    100116: Singer:Bip01 MBottomLipNub
+    100118: Singer:Bip01 MJaw
+    100120: Singer:Bip01 MJawNub
+    100122: Singer:Bip01 MMiddleEyebrow
+    100124: Singer:Bip01 MMiddleEyebrowNub
+    100126: Singer:Bip01 MNose
+    100128: Singer:Bip01 MNoseNub
+    100130: Singer:Bip01 MTongue
+    100132: Singer:Bip01 MTongueNub
+    100134: Singer:Bip01 MUpperLip
+    100136: Singer:Bip01 MUpperLipNub
+    100138: Singer:Bip01 Neck
+    100140: Singer:Bip01 Pelvis
+    100142: Singer:Bip01 R Calf
+    100144: Singer:Bip01 R Clavicle
+    100146: Singer:Bip01 R Finger0
+    100148: Singer:Bip01 R Finger01
+    100150: Singer:Bip01 R Finger02
+    100152: Singer:Bip01 R Finger0Nub
+    100154: Singer:Bip01 R Finger1
+    100156: Singer:Bip01 R Finger11
+    100158: Singer:Bip01 R Finger12
+    100160: Singer:Bip01 R Finger1Nub
+    100162: Singer:Bip01 R Finger2
+    100164: Singer:Bip01 R Finger21
+    100166: Singer:Bip01 R Finger22
+    100168: Singer:Bip01 R Finger2Nub
+    100170: Singer:Bip01 R Finger3
+    100172: Singer:Bip01 R Finger31
+    100174: Singer:Bip01 R Finger32
+    100176: Singer:Bip01 R Finger3Nub
+    100178: Singer:Bip01 R Finger4
+    100180: Singer:Bip01 R Finger41
+    100182: Singer:Bip01 R Finger42
+    100184: Singer:Bip01 R Finger4Nub
+    100186: Singer:Bip01 R Foot
+    100188: Singer:Bip01 R Forearm
+    100190: Singer:Bip01 R Hand
+    100192: Singer:Bip01 R Thigh
+    100194: Singer:Bip01 R Toe0
+    100196: Singer:Bip01 R Toe0Nub
+    100198: Singer:Bip01 R UpperArm
+    100200: Singer:Bip01 RCaninus
+    100202: Singer:Bip01 RCaninusNub
+    100204: Singer:Bip01 RCheek
+    100206: Singer:Bip01 RCheekNub
+    100208: Singer:Bip01 REye
+    100210: Singer:Bip01 REyeBlinkBottom
+    100212: Singer:Bip01 REyeBlinkBottomNub
+    100214: Singer:Bip01 REyeBlinkTop
+    100216: Singer:Bip01 REyeBlinkTopNub
+    100218: Singer:Bip01 REyeNub
+    100220: Singer:Bip01 RInnerEyebrow
+    100222: Singer:Bip01 RInnerEyebrowNub
+    100224: Singer:Bip01 RMasseter
+    100226: Singer:Bip01 RMasseterNub
+    100228: Singer:Bip01 RMouthBottom
+    100230: Singer:Bip01 RMouthBottomNub
+    100232: Singer:Bip01 RMouthCorner
+    100234: Singer:Bip01 RMouthCornerNub
+    100236: Singer:Bip01 ROuterEyebrow
+    100238: Singer:Bip01 ROuterEyebrowNub
+    100240: Singer:Bip01 RUpperlip
+    100242: Singer:Bip01 RUpperlipNub
+    100244: Singer:Bip01 Spine
+    100246: Singer:Bip01 Spine1
+    100248: Singer:Bip01 Spine2
+    400000: f008_hipoly
+    400002: //RootNode
+    400004: Singer:Bip01
+    400006: Singer:Bip01 Footsteps
+    400008: Singer:Bip01 Head
+    400010: Singer:Bip01 HeadNub
+    400012: Singer:Bip01 L Calf
+    400014: Singer:Bip01 L Clavicle
+    400016: Singer:Bip01 L Finger0
+    400018: Singer:Bip01 L Finger01
+    400020: Singer:Bip01 L Finger02
+    400022: Singer:Bip01 L Finger0Nub
+    400024: Singer:Bip01 L Finger1
+    400026: Singer:Bip01 L Finger11
+    400028: Singer:Bip01 L Finger12
+    400030: Singer:Bip01 L Finger1Nub
+    400032: Singer:Bip01 L Finger2
+    400034: Singer:Bip01 L Finger21
+    400036: Singer:Bip01 L Finger22
+    400038: Singer:Bip01 L Finger2Nub
+    400040: Singer:Bip01 L Finger3
+    400042: Singer:Bip01 L Finger31
+    400044: Singer:Bip01 L Finger32
+    400046: Singer:Bip01 L Finger3Nub
+    400048: Singer:Bip01 L Finger4
+    400050: Singer:Bip01 L Finger41
+    400052: Singer:Bip01 L Finger42
+    400054: Singer:Bip01 L Finger4Nub
+    400056: Singer:Bip01 L Foot
+    400058: Singer:Bip01 L Forearm
+    400060: Singer:Bip01 L Hand
+    400062: Singer:Bip01 L Thigh
+    400064: Singer:Bip01 L Toe0
+    400066: Singer:Bip01 L Toe0Nub
+    400068: Singer:Bip01 L UpperArm
+    400070: Singer:Bip01 LCaninus
+    400072: Singer:Bip01 LCaninusNub
+    400074: Singer:Bip01 LCheek
+    400076: Singer:Bip01 LCheekNub
+    400078: Singer:Bip01 LEye
+    400080: Singer:Bip01 LEyeBlinkBottom
+    400082: Singer:Bip01 LEyeBlinkBottomNub
+    400084: Singer:Bip01 LEyeBlinkTop
+    400086: Singer:Bip01 LEyeBlinkTopNub
+    400088: Singer:Bip01 LEyeNub
+    400090: Singer:Bip01 LInnerEyebrow
+    400092: Singer:Bip01 LInnerEyebrowNub
+    400094: Singer:Bip01 LMasseter
+    400096: Singer:Bip01 LMasseterNub
+    400098: Singer:Bip01 LMouthBottom
+    400100: Singer:Bip01 LMouthBottomNub
+    400102: Singer:Bip01 LMouthCorner
+    400104: Singer:Bip01 LMouthCornerNub
+    400106: Singer:Bip01 LOuterEyebrow
+    400108: Singer:Bip01 LOuterEyebrowNub
+    400110: Singer:Bip01 LUpperlip
+    400112: Singer:Bip01 LUpperlipNub
+    400114: Singer:Bip01 MBottomLip
+    400116: Singer:Bip01 MBottomLipNub
+    400118: Singer:Bip01 MJaw
+    400120: Singer:Bip01 MJawNub
+    400122: Singer:Bip01 MMiddleEyebrow
+    400124: Singer:Bip01 MMiddleEyebrowNub
+    400126: Singer:Bip01 MNose
+    400128: Singer:Bip01 MNoseNub
+    400130: Singer:Bip01 MTongue
+    400132: Singer:Bip01 MTongueNub
+    400134: Singer:Bip01 MUpperLip
+    400136: Singer:Bip01 MUpperLipNub
+    400138: Singer:Bip01 Neck
+    400140: Singer:Bip01 Pelvis
+    400142: Singer:Bip01 R Calf
+    400144: Singer:Bip01 R Clavicle
+    400146: Singer:Bip01 R Finger0
+    400148: Singer:Bip01 R Finger01
+    400150: Singer:Bip01 R Finger02
+    400152: Singer:Bip01 R Finger0Nub
+    400154: Singer:Bip01 R Finger1
+    400156: Singer:Bip01 R Finger11
+    400158: Singer:Bip01 R Finger12
+    400160: Singer:Bip01 R Finger1Nub
+    400162: Singer:Bip01 R Finger2
+    400164: Singer:Bip01 R Finger21
+    400166: Singer:Bip01 R Finger22
+    400168: Singer:Bip01 R Finger2Nub
+    400170: Singer:Bip01 R Finger3
+    400172: Singer:Bip01 R Finger31
+    400174: Singer:Bip01 R Finger32
+    400176: Singer:Bip01 R Finger3Nub
+    400178: Singer:Bip01 R Finger4
+    400180: Singer:Bip01 R Finger41
+    400182: Singer:Bip01 R Finger42
+    400184: Singer:Bip01 R Finger4Nub
+    400186: Singer:Bip01 R Foot
+    400188: Singer:Bip01 R Forearm
+    400190: Singer:Bip01 R Hand
+    400192: Singer:Bip01 R Thigh
+    400194: Singer:Bip01 R Toe0
+    400196: Singer:Bip01 R Toe0Nub
+    400198: Singer:Bip01 R UpperArm
+    400200: Singer:Bip01 RCaninus
+    400202: Singer:Bip01 RCaninusNub
+    400204: Singer:Bip01 RCheek
+    400206: Singer:Bip01 RCheekNub
+    400208: Singer:Bip01 REye
+    400210: Singer:Bip01 REyeBlinkBottom
+    400212: Singer:Bip01 REyeBlinkBottomNub
+    400214: Singer:Bip01 REyeBlinkTop
+    400216: Singer:Bip01 REyeBlinkTopNub
+    400218: Singer:Bip01 REyeNub
+    400220: Singer:Bip01 RInnerEyebrow
+    400222: Singer:Bip01 RInnerEyebrowNub
+    400224: Singer:Bip01 RMasseter
+    400226: Singer:Bip01 RMasseterNub
+    400228: Singer:Bip01 RMouthBottom
+    400230: Singer:Bip01 RMouthBottomNub
+    400232: Singer:Bip01 RMouthCorner
+    400234: Singer:Bip01 RMouthCornerNub
+    400236: Singer:Bip01 ROuterEyebrow
+    400238: Singer:Bip01 ROuterEyebrowNub
+    400240: Singer:Bip01 RUpperlip
+    400242: Singer:Bip01 RUpperlipNub
+    400244: Singer:Bip01 Spine
+    400246: Singer:Bip01 Spine1
+    400248: Singer:Bip01 Spine2
+    4300000: f008_hipoly
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: f008_hipoly
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

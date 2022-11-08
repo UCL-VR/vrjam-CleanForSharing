@@ -1,0 +1,17 @@
+<Questions>
+    <Question Consent="yes" QuestionText="Please rate your sense of being in the bar, on the following scale from 1 to 7, where 7 represents your normal experience of being in a place." Answer0="Likert7"/>
+    <Question Consent="yes" QuestionText= "To what extent were there times during the experience when the virtual reality became the 'reality' for you,
+and you almost forgot about the 'real world'fin which the whole experience was really taking place? 1 indicates not all, 7 indicates all the time." Answer0="Likert7"/>
+    <Question Consent="yes" QuestionText= "During the time of the experience, which was strongest on the whole,your sense of being in virtual bar, or of being in the real world?1 being the virtual bar, and 7 being the real world." Answer0="Likert7"/>
+    <Question Consent="yes" QuestionText= "During the time of the experience, did you often think to yourself that you were actually just sitting in a room wearing a helmet or did the virtual reality overwhelm you? 1 being sitting in a room, and 7 being overwhelmed by the virtual reality" Answer0="Likert7"/>
+    <Question Consent="yes" QuestionText= "When the box fell, how much did you feel that your hand might be hurt? 1 being not at all, 7 being I felt my hand might be hurt." Answer0="Likert7"/>
+    <Question Consent="yes" QuestionText= "When the box fell, did you react by moving your hand? 1 being not at all, 7 being I moved my hand." Answer0="Likert7"/>
+    <Question Consent="yes" QuestionText= "During the experience did it feel as if your hand disappeared? 1 being not at all, 7 being my hand disappeared." Answer0="Likert7"/>
+    <Question Consent="yes" QuestionText= "During the experience did it feel as if you moved across the bar? 1 being not at all, 7 being I moved across the bar." Answer0="Likert7"/>
+    <Question Avatar="yes" Consent="yes" QuestionText= "How strong was the feeling that the body you saw was your own?1 being not at all, 7 being very much." Answer0="Likert7"/>
+    <Question Avatar="yes" Consent="yes" QuestionText= "How much did you feel that you were looking at your own body? 1 being not at all, 7 being very much." Answer0="Likert7"/>
+    <Question Avatar="yes" Consent="yes" QuestionText= "How much did you feel that your real body was becoming virtual? 1 being not at all, 7 being very much." Answer0="Likert7"/>
+    <Question Avatar="yes" Consent="yes" QuestionText= "How much did you feel feel as if you had two bodies? 1 being not at all, 7 being very much." Answer0="Likert7"/>
+    <Question Avatar="yes" Consent="yes" QuestionText= "How much did you feel as if the virtual body became to look like your real body? 1 being not at all, 7 being very much." Answer0="Likert7"/>
+    <Question Consent="yes" QuestionText= "Thank you for participating." Answer0="Continue"/>
+</Questions>

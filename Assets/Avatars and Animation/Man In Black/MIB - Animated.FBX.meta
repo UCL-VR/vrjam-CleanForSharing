@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: d2ce6782b9962d44e8c5199529356d79
+timeCreated: 1431113915
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: m019_hipoly
+    100002: //RootNode
+    100004: MIB:Bip01
+    100006: MIB:Bip01 Footsteps
+    100008: MIB:Bip01 Head
+    100010: MIB:Bip01 HeadNub
+    100012: MIB:Bip01 L Calf
+    100014: MIB:Bip01 L Clavicle
+    100016: MIB:Bip01 L Finger0
+    100018: MIB:Bip01 L Finger01
+    100020: MIB:Bip01 L Finger02
+    100022: MIB:Bip01 L Finger0Nub
+    100024: MIB:Bip01 L Finger1
+    100026: MIB:Bip01 L Finger11
+    100028: MIB:Bip01 L Finger12
+    100030: MIB:Bip01 L Finger1Nub
+    100032: MIB:Bip01 L Finger2
+    100034: MIB:Bip01 L Finger21
+    100036: MIB:Bip01 L Finger22
+    100038: MIB:Bip01 L Finger2Nub
+    100040: MIB:Bip01 L Finger3
+    100042: MIB:Bip01 L Finger31
+    100044: MIB:Bip01 L Finger32
+    100046: MIB:Bip01 L Finger3Nub
+    100048: MIB:Bip01 L Finger4
+    100050: MIB:Bip01 L Finger41
+    100052: MIB:Bip01 L Finger42
+    100054: MIB:Bip01 L Finger4Nub
+    100056: MIB:Bip01 L Foot
+    100058: MIB:Bip01 L Forearm
+    100060: MIB:Bip01 L Hand
+    100062: MIB:Bip01 L Thigh
+    100064: MIB:Bip01 L Toe0
+    100066: MIB:Bip01 L Toe0Nub
+    100068: MIB:Bip01 L UpperArm
+    100070: MIB:Bip01 LCaninus
+    100072: MIB:Bip01 LCaninusNub
+    100074: MIB:Bip01 LCheek
+    100076: MIB:Bip01 LCheekNub
+    100078: MIB:Bip01 LEye
+    100080: MIB:Bip01 LEyeBlinkBottom
+    100082: MIB:Bip01 LEyeBlinkBottomNub
+    100084: MIB:Bip01 LEyeBlinkTop
+    100086: MIB:Bip01 LEyeBlinkTopNub
+    100088: MIB:Bip01 LEyeNub
+    100090: MIB:Bip01 LInnerEyebrow
+    100092: MIB:Bip01 LInnerEyebrowNub
+    100094: MIB:Bip01 LMasseter
+    100096: MIB:Bip01 LMasseterNub
+    100098: MIB:Bip01 LMouthBottom
+    100100: MIB:Bip01 LMouthBottomNub
+    100102: MIB:Bip01 LMouthCorner
+    100104: MIB:Bip01 LMouthCornerNub
+    100106: MIB:Bip01 LOuterEyebrow
+    100108: MIB:Bip01 LOuterEyebrowNub
+    100110: MIB:Bip01 LUpperlip
+    100112: MIB:Bip01 LUpperlipNub
+    100114: MIB:Bip01 MBottomLip
+    100116: MIB:Bip01 MBottomLipNub
+    100118: MIB:Bip01 MJaw
+    100120: MIB:Bip01 MJawNub
+    100122: MIB:Bip01 MMiddleEyebrow
+    100124: MIB:Bip01 MMiddleEyebrowNub
+    100126: MIB:Bip01 MNose
+    100128: MIB:Bip01 MNoseNub
+    100130: MIB:Bip01 MTongue
+    100132: MIB:Bip01 MTongueNub
+    100134: MIB:Bip01 MUpperLip
+    100136: MIB:Bip01 MUpperLipNub
+    100138: MIB:Bip01 Neck
+    100140: MIB:Bip01 Pelvis
+    100142: MIB:Bip01 R Calf
+    100144: MIB:Bip01 R Clavicle
+    100146: MIB:Bip01 R Finger0
+    100148: MIB:Bip01 R Finger01
+    100150: MIB:Bip01 R Finger02
+    100152: MIB:Bip01 R Finger0Nub
+    100154: MIB:Bip01 R Finger1
+    100156: MIB:Bip01 R Finger11
+    100158: MIB:Bip01 R Finger12
+    100160: MIB:Bip01 R Finger1Nub
+    100162: MIB:Bip01 R Finger2
+    100164: MIB:Bip01 R Finger21
+    100166: MIB:Bip01 R Finger22
+    100168: MIB:Bip01 R Finger2Nub
+    100170: MIB:Bip01 R Finger3
+    100172: MIB:Bip01 R Finger31
+    100174: MIB:Bip01 R Finger32
+    100176: MIB:Bip01 R Finger3Nub
+    100178: MIB:Bip01 R Finger4
+    100180: MIB:Bip01 R Finger41
+    100182: MIB:Bip01 R Finger42
+    100184: MIB:Bip01 R Finger4Nub
+    100186: MIB:Bip01 R Foot
+    100188: MIB:Bip01 R Forearm
+    100190: MIB:Bip01 R Hand
+    100192: MIB:Bip01 R Thigh
+    100194: MIB:Bip01 R Toe0
+    100196: MIB:Bip01 R Toe0Nub
+    100198: MIB:Bip01 R UpperArm
+    100200: MIB:Bip01 RCaninus
+    100202: MIB:Bip01 RCaninusNub
+    100204: MIB:Bip01 RCheek
+    100206: MIB:Bip01 RCheekNub
+    100208: MIB:Bip01 REye
+    100210: MIB:Bip01 REyeBlinkBottom
+    100212: MIB:Bip01 REyeBlinkBottomNub
+    100214: MIB:Bip01 REyeBlinkTop
+    100216: MIB:Bip01 REyeBlinkTopNub
+    100218: MIB:Bip01 REyeNub
+    100220: MIB:Bip01 RInnerEyebrow
+    100222: MIB:Bip01 RInnerEyebrowNub
+    100224: MIB:Bip01 RMasseter
+    100226: MIB:Bip01 RMasseterNub
+    100228: MIB:Bip01 RMouthBottom
+    100230: MIB:Bip01 RMouthBottomNub
+    100232: MIB:Bip01 RMouthCorner
+    100234: MIB:Bip01 RMouthCornerNub
+    100236: MIB:Bip01 ROuterEyebrow
+    100238: MIB:Bip01 ROuterEyebrowNub
+    100240: MIB:Bip01 RUpperlip
+    100242: MIB:Bip01 RUpperlipNub
+    100244: MIB:Bip01 Spine
+    100246: MIB:Bip01 Spine1
+    100248: MIB:Bip01 Spine2
+    400000: m019_hipoly
+    400002: //RootNode
+    400004: MIB:Bip01
+    400006: MIB:Bip01 Footsteps
+    400008: MIB:Bip01 Head
+    400010: MIB:Bip01 HeadNub
+    400012: MIB:Bip01 L Calf
+    400014: MIB:Bip01 L Clavicle
+    400016: MIB:Bip01 L Finger0
+    400018: MIB:Bip01 L Finger01
+    400020: MIB:Bip01 L Finger02
+    400022: MIB:Bip01 L Finger0Nub
+    400024: MIB:Bip01 L Finger1
+    400026: MIB:Bip01 L Finger11
+    400028: MIB:Bip01 L Finger12
+    400030: MIB:Bip01 L Finger1Nub
+    400032: MIB:Bip01 L Finger2
+    400034: MIB:Bip01 L Finger21
+    400036: MIB:Bip01 L Finger22
+    400038: MIB:Bip01 L Finger2Nub
+    400040: MIB:Bip01 L Finger3
+    400042: MIB:Bip01 L Finger31
+    400044: MIB:Bip01 L Finger32
+    400046: MIB:Bip01 L Finger3Nub
+    400048: MIB:Bip01 L Finger4
+    400050: MIB:Bip01 L Finger41
+    400052: MIB:Bip01 L Finger42
+    400054: MIB:Bip01 L Finger4Nub
+    400056: MIB:Bip01 L Foot
+    400058: MIB:Bip01 L Forearm
+    400060: MIB:Bip01 L Hand
+    400062: MIB:Bip01 L Thigh
+    400064: MIB:Bip01 L Toe0
+    400066: MIB:Bip01 L Toe0Nub
+    400068: MIB:Bip01 L UpperArm
+    400070: MIB:Bip01 LCaninus
+    400072: MIB:Bip01 LCaninusNub
+    400074: MIB:Bip01 LCheek
+    400076: MIB:Bip01 LCheekNub
+    400078: MIB:Bip01 LEye
+    400080: MIB:Bip01 LEyeBlinkBottom
+    400082: MIB:Bip01 LEyeBlinkBottomNub
+    400084: MIB:Bip01 LEyeBlinkTop
+    400086: MIB:Bip01 LEyeBlinkTopNub
+    400088: MIB:Bip01 LEyeNub
+    400090: MIB:Bip01 LInnerEyebrow
+    400092: MIB:Bip01 LInnerEyebrowNub
+    400094: MIB:Bip01 LMasseter
+    400096: MIB:Bip01 LMasseterNub
+    400098: MIB:Bip01 LMouthBottom
+    400100: MIB:Bip01 LMouthBottomNub
+    400102: MIB:Bip01 LMouthCorner
+    400104: MIB:Bip01 LMouthCornerNub
+    400106: MIB:Bip01 LOuterEyebrow
+    400108: MIB:Bip01 LOuterEyebrowNub
+    400110: MIB:Bip01 LUpperlip
+    400112: MIB:Bip01 LUpperlipNub
+    400114: MIB:Bip01 MBottomLip
+    400116: MIB:Bip01 MBottomLipNub
+    400118: MIB:Bip01 MJaw
+    400120: MIB:Bip01 MJawNub
+    400122: MIB:Bip01 MMiddleEyebrow
+    400124: MIB:Bip01 MMiddleEyebrowNub
+    400126: MIB:Bip01 MNose
+    400128: MIB:Bip01 MNoseNub
+    400130: MIB:Bip01 MTongue
+    400132: MIB:Bip01 MTongueNub
+    400134: MIB:Bip01 MUpperLip
+    400136: MIB:Bip01 MUpperLipNub
+    400138: MIB:Bip01 Neck
+    400140: MIB:Bip01 Pelvis
+    400142: MIB:Bip01 R Calf
+    400144: MIB:Bip01 R Clavicle
+    400146: MIB:Bip01 R Finger0
+    400148: MIB:Bip01 R Finger01
+    400150: MIB:Bip01 R Finger02
+    400152: MIB:Bip01 R Finger0Nub
+    400154: MIB:Bip01 R Finger1
+    400156: MIB:Bip01 R Finger11
+    400158: MIB:Bip01 R Finger12
+    400160: MIB:Bip01 R Finger1Nub
+    400162: MIB:Bip01 R Finger2
+    400164: MIB:Bip01 R Finger21
+    400166: MIB:Bip01 R Finger22
+    400168: MIB:Bip01 R Finger2Nub
+    400170: MIB:Bip01 R Finger3
+    400172: MIB:Bip01 R Finger31
+    400174: MIB:Bip01 R Finger32
+    400176: MIB:Bip01 R Finger3Nub
+    400178: MIB:Bip01 R Finger4
+    400180: MIB:Bip01 R Finger41
+    400182: MIB:Bip01 R Finger42
+    400184: MIB:Bip01 R Finger4Nub
+    400186: MIB:Bip01 R Foot
+    400188: MIB:Bip01 R Forearm
+    400190: MIB:Bip01 R Hand
+    400192: MIB:Bip01 R Thigh
+    400194: MIB:Bip01 R Toe0
+    400196: MIB:Bip01 R Toe0Nub
+    400198: MIB:Bip01 R UpperArm
+    400200: MIB:Bip01 RCaninus
+    400202: MIB:Bip01 RCaninusNub
+    400204: MIB:Bip01 RCheek
+    400206: MIB:Bip01 RCheekNub
+    400208: MIB:Bip01 REye
+    400210: MIB:Bip01 REyeBlinkBottom
+    400212: MIB:Bip01 REyeBlinkBottomNub
+    400214: MIB:Bip01 REyeBlinkTop
+    400216: MIB:Bip01 REyeBlinkTopNub
+    400218: MIB:Bip01 REyeNub
+    400220: MIB:Bip01 RInnerEyebrow
+    400222: MIB:Bip01 RInnerEyebrowNub
+    400224: MIB:Bip01 RMasseter
+    400226: MIB:Bip01 RMasseterNub
+    400228: MIB:Bip01 RMouthBottom
+    400230: MIB:Bip01 RMouthBottomNub
+    400232: MIB:Bip01 RMouthCorner
+    400234: MIB:Bip01 RMouthCornerNub
+    400236: MIB:Bip01 ROuterEyebrow
+    400238: MIB:Bip01 ROuterEyebrowNub
+    400240: MIB:Bip01 RUpperlip
+    400242: MIB:Bip01 RUpperlipNub
+    400244: MIB:Bip01 Spine
+    400246: MIB:Bip01 Spine1
+    400248: MIB:Bip01 Spine2
+    4300000: m019_hipoly
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: m019_hipoly
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
